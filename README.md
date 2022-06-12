@@ -1,5 +1,5 @@
 # Welcome!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;My+is+Syahmi;What+about+yours?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;My+name+is+Syahmi;What+about+yours?)](https://git.io/typing-svg)
 <br /><br />
 ![Python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 <br /><br />
