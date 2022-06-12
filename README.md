@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to me page! 😁</h1>
 
-![Header](./https://ibb.co/Jd2dL2M)
+![Header](./github-header-image.png)
 
 <p href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Syahmi;What+about+yours?" alt="moving word">
