@@ -1,13 +1,17 @@
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="moving hand">
+  <img width="150" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="moving hand">
 </p>
 
-<h1 align="center">Welcome to me page! 😁</h1>
+<h1 align="center">Welcome to me page! <img width="30" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="python move"></h1>
 
 ![Header](./github-header-image.png)
 
 <p href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Syahmi;What+about+yours?" alt="moving word">
+</p>
+
+<p>Im still learning to code <br />
+  <img width="165" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding"
 </p>
 
 <br /><br />
@@ -33,7 +37,19 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css3 image"> &nbsp
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js image"> &nbsp
 </p>
+
 <br /><br /><br /><br /><br /><br />
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<p align="center">
+  <img width="200" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" alt="eat sleep code repeat">
+</p>
+
+<br />
+
+<p align="center" href="none">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake move">
+</p>
+
+<br /><br />
+
 ![visitor badge](https://custom-icon-badges.herokuapp.com/github/license/denvercoder1/custom-icon-badges?logo=repo)
