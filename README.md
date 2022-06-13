@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Syahmi;What+about+yours?" alt="moving word">
 </p>
 
-<p>Im still learning to code <br />
+<p align="center">Im still learning to code <br />
   <img width="165" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding"
 </p>
 
