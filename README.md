@@ -4,17 +4,26 @@
 
 <h1 align="center">Welcome to me page! <img width="30" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="python move"></h1>
 
-![Header](./github-header-image.png)
-
-<p href="https://git.io/typing-svg">
+<p align="none" href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Syahmi;What+about+yours?" alt="moving word">
 </p>
 
-<p align="center">Im still learning to code <br />
-  <img width="165" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding"
-</p>
+![Header](./github-header-image.png)
 
-<br /><br />
+---
+
+<a>
+  <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=250 alt="someone coding"/>
+</a>
+
+<ul>What is going through my <b>head</b> 🧠:
+  <br /><br />
+  <li>🕵🏻‍♂️ I'm still <b>learning</b> how to <b>code</b>.</li>
+  <li>👨🏻‍💻 <b>Build</b> a few <b>projects</b>.</li>
+  <li>👾 Is it possible for me to <b>work</b> in <b>coding</b>?</li>
+</ul>
+
+<br /><br /><br /><br /><br /><br />
 
 ---
 
