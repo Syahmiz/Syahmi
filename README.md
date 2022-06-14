@@ -2,7 +2,7 @@
   <img width="150" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="moving hand">
 </p>
 
-<h1 align="center">Welcome to me page! <img width="30" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="python move"></h1>
+<h1 align="center">Welcome to mi page! <img width="30" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="python move"></h1>
 
 <p align="none" href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Syahmi;What+about+yours?" alt="moving word">
