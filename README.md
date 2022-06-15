@@ -12,8 +12,6 @@
 
 ---
 
-
-
 <ul>What is going through my <b>head</b> 🧠:
    <br /><br />
   <a>
@@ -62,4 +60,8 @@
 
 <br /><br />
 
-![visitor badge](https://custom-icon-badges.herokuapp.com/github/license/denvercoder1/custom-icon-badges?logo=repo)
+<p align="none" href="https://www.unikl.edu.my/" href="https://www.mara.gov.my/en/index/">
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/UniKL_seal.svg/1200px-UniKL_seal.svg.png" alt="unikl"> &nbsp
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/en/c/c6/Majlis_Amanah_Rakyat_logo.png" alt="mara"> &nbsp
+  <img src="https://custom-icon-badges.herokuapp.com/github/license/denvercoder1/custom-icon-badges?logo=repo" alt="mit">
+</p>
