@@ -15,10 +15,10 @@
 
 
 <ul>What is going through my <b>head</b> 🧠:
+   <br /><br />
   <a>
-  <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=250 alt="someone coding"/>
+  <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=200 alt="someone coding"/>
   </a>
-  <br /><br />
   <li>🕵🏻‍♂️ I'm still <b>learning</b> how to <b>code</b>.</li>
   <li>👨🏻‍💻 <b>Build</b> a few <b>projects</b>.</li>
   <li>👾 Is it possible for me to <b>work</b> in <b>coding</b>?</li>
