@@ -4,11 +4,7 @@
 
 <h1 align="center">Welcome to mi page! <img width="30" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="python move"></h1>
 
-<p align="none" href="none">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Syahmi;What+about+yours?" alt="moving word">
-</p>
-
-![Header](./github-header-image.png)
+![developer](./github-header-image.png)
 
 ---
 
@@ -22,46 +18,35 @@
   <li>👾 Is it possible for me to <b>work</b> in <b>coding</b>?</li>
 </ul>
 
-<br /><br /><br /><br /><br /><br />
-
----
-
-<h3 align="center">Link 🔗</h3>
-<p align="center" href="https://www.linkedin.com/in/szx96" href="https://www.freecodecamp.org/SYAHMI-ROSLEE" href="https://github.com/Syahmiz" href="https://replit.com/@zikryx">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn web image"> &nbsp
-  <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="freeCodeCamp web image"> &nbsp
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub web image"> &nbsp
-  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit web image"> &nbsp
-</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/szx96" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80"/></a>
+<a href="https://www.freecodecamp.org/SYAHMI-ROSLEE" target="blank"><img align="center" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="freeCodeCamp" width="111"/></a>
+<a href="https://github.com/Syahmiz" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" width="73"/></a>
+<a href="https://replit.com/@zikryx" target="blank"><img align="center" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" width="67"/></a>
 
 <br /><br />
 
 ---
 
-<h3 align="center">Learning 📘</h3>
-<p align="center" href="none">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python image"> &nbsp
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="html image"> &nbsp
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css3 image"> &nbsp
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js image"> &nbsp
-</p>
-
-<br /><br /><br /><br /><br /><br />
-
-<p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" alt="eat sleep code repeat">
-</p>
-
-<br />
-
-<p align="center" href="none">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake move">
-</p>
-
-<br /><br />
-
-<p align="none" href="https://www.unikl.edu.my/" href="https://www.mara.gov.my/en/index/">
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/UniKL_seal.svg/1200px-UniKL_seal.svg.png" alt="unikl"> &nbsp
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/en/c/c6/Majlis_Amanah_Rakyat_logo.png" alt="mara"> &nbsp
-  <img src="https://custom-icon-badges.herokuapp.com/github/license/denvercoder1/custom-icon-badges?logo=repo" alt="mit">
-</p>
+<details>
+  <summary><b>Experimentation 🧪</b></summary><br />
+    <p align="none" href="none">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Syahmi;What+about+yours?" alt="moving word">
+    </p><br />
+    <p align="center">
+      <img width="200" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" alt="eat sleep code repeat">
+    </p><br />
+    <p align="center" href="none">
+      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake move">
+    </p>
+</details>
+  
+<details>
+  <summary><b>Learning 👨🏻‍💻</b></summary><br />
+    <p align="left">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python image"> &nbsp
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="html image"> &nbsp
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css3 image"> &nbsp
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js image"> &nbsp
+    </p>
+</details>
