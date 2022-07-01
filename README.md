@@ -15,7 +15,8 @@
   </a>
   <li>🕵🏻‍♂️ I'm still <b>learning</b> how to <b>code</b>.</li>
   <li>👨🏻‍💻 <b>Build</b> a few <b>projects</b>.</li>
-  <li>👾 Is it possible for me to <b>work</b> in <b>coding</b>?</li>
+  <li>💪🏻 Continue to <b>improve</b></li>
+  <li>👾 I enjoy playing <b>Apex Legends</b>.</li>
 </ul>
 
 <p align="left">
