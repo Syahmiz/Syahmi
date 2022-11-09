@@ -1,21 +1,24 @@
 <!DOCTYPE html>
-<p align="center">
-  <img width="150" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="moving hand">
-</p>
-
-<h1 align="center">Welcome to mi page! <img width="30" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="python move"></h1>
-
----
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE-edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<section align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="150" alt="moving hand">
+  <h1>Hi, I'm Syahmi</h1>
+</section>
 
 <ul>What is going through my <b>head</b> 🧠:
-   <br /><br />
+   <br><br>
   <a>
   <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=200 alt="someone coding"/>
   </a>
-  <li>🕵🏻‍♂️ I'm still <b>learning</b> how to <b>code</b>.</li>
-  <li>👨🏻‍💻 <b>Build</b> a few <b>projects</b>.</li>
+  <li>🕵🏻‍♂️ I create my own <a href="syahmiz.github.io">portfolio website<a> using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</li>
+  <li>👨🏻‍💻 More <a href="https://syahmiz.github.io/projects.html">projects</a> are in the <b>works</b>.</li>
   <li>💪🏻 Continue to <b>improve</b></li>
-  <li>👾 I enjoy playing <b>Apex Legends</b>.</li>
+  <li>👾 Build my <b>Web Development</b> career.</li>
 </ul>
 
 <p align="left">
