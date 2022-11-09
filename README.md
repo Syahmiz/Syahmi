@@ -15,7 +15,7 @@
   <a>
   <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=200 alt="someone coding"/>
   </a>
-  <li>🕵🏻‍♂️ I create my own <a href="syahmiz.github.io">portfolio website<a> using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</li>
+  <li>🕵🏻‍♂️ I create my own <a href="https://syahmiz.github.io/">portfolio website<a> using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</li>
   <li>👨🏻‍💻 More <a href="https://syahmiz.github.io/projects.html">projects</a> are in the <b>works</b>.</li>
   <li>💪🏻 Continue to <b>improve</b></li>
   <li>👾 Build my <b>Web Development</b> career.</li>
